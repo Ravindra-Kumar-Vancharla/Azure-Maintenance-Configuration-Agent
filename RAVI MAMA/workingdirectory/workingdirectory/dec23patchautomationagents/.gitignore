@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.env.*
+.azure/
+.vscode/
+.DS_Store
+.env
+.gitignore
+venv/
+__pycache__/
+*.pyc
