@@ -1,0 +1,7 @@
+azure-functions
+azure-identity
+azure-ai-agents
+azure-mgmt-maintenance
+azure-mgmt-compute
+azure-mgmt-resourcegraph
+azure-storage-blob>=12.19.0

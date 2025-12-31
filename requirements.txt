@@ -1,0 +1,11 @@
+requests
+azure-identity
+azure-ai-agents
+python-dotenv
+typing-extensions
+azure-ai-projects~=1.0.0b11
+azure-mgmt-maintenance
+azure-mgmt-compute
+azure-mgmt-resourcegraph
+azure-mgmt-monitor
+azure-storage-blob>=12.19.0
